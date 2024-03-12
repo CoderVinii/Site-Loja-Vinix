@@ -406,6 +406,23 @@ ul {
     color: var(--cor-que-eu-quero);
 }
 
+/*----- Detalhes Do Produto -------*/
+
+.ver-produto {
+    margin-top: 40px;
+}
+
+.ver-produto .col-2 img {
+    width: 100%;
+    padding: 0;
+}
+
+.ver-produto #produtoImg {
+    width: 60px;
+    height: 45px;
+}
+
+
 
 /*----- Menu Celular -------*/
 
